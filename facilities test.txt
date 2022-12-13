@@ -1,0 +1,59 @@
+# Facilities test 
+
+"C:\Users\mj\Downloads\Object-Oriented Prgramming 1\python Project (4)\venv\Scripts\python.exe" "C:\Users\mj\Downloads\Object-Oriented Prgramming 1\python Project (4)\facilities.py" 
+
+Welcome to Alberta Hospital (AH) Management system 
+Select from the following options, or select 0 to stop:
+1 - Doctors
+2 - Facilities
+3 - Laboratories
+4 - Patients
+2
+Facilities Menu:
+1 - Display Facilities list
+2 - Add Facility
+3 - Back to the Main Menu
+1
+Hospital  Facilities are:
+Ambulance
+Admissions
+Canteen
+Emergency
+
+Back to the previous Menu
+Facilities Menu:
+1 - Display Facilities list
+2 - Add Facility
+3 - Back to the Main Menu
+2
+Enter Facility name: 
+covid care
+
+Back to the previous Menu
+Facilities Menu:
+1 - Display Facilities list
+2 - Add Facility
+3 - Back to the Main Menu
+1
+Hospital  Facilities are:
+Ambulance
+Admissions
+Canteen
+Emergency
+covid care
+
+Back to the previous Menu
+Facilities Menu:
+1 - Display Facilities list
+2 - Add Facility
+3 - Back to the Main Menu
+3
+Welcome to Alberta Hospital (AH) Management system 
+Select from the following options, or select 0 to stop:
+1 - Doctors
+2 - Facilities
+3 - Laboratories
+4 - Patients
+0
+
+Process finished with exit code 0
